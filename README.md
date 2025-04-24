@@ -1,3 +1,8 @@
+<p>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+</p>
+  
+  
 ## 💜 I'm Ayla Costa! 🔮
 
 - 📍 São Paulo - Brasil
@@ -15,7 +20,7 @@
   </p>
   
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <!---
 ayladsdc/ayladsdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
