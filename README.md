@@ -1,6 +1,3 @@
-
-
- 
 # <p align="center"> 💜 I'm Ayla Costa! 🔮</p>
  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="ilustração de um computador" min-width="360px" max-width="360px" width="360px" align="right"> 
 
@@ -17,11 +14,3 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-ayla.dsdc@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayla.dsdc@gmail.com" alt="Instagram"/></a>
   </p>
-  
-
-
-
-<!---
-ayladsdc/ayladsdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
