@@ -1,5 +1,5 @@
 
- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+
  
 # <p align="center"> 💜 I'm Ayla Costa! 🔮</p>
 
@@ -8,7 +8,7 @@
 ### - 🌌 Future Front-end Developer!
 ### - 👩‍💻 C, Python, CSS, JavaScript
 
-
+ <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="ilustração de um computador" min-width="270px" max-width="270px" width="270px" align="right"> 
 <p align="left">
 <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aylacosta" alt="LinkedIn"/></a>
