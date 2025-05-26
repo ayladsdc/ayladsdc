@@ -1,4 +1,4 @@
-# <p align="center"> 💜 I'm Ayla Costa! 🔮</p>
+# <p align="center"> 💜 I'm Ayla Santos Costa! 🔮</p>
  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="ilustração de um computador" min-width="360px" max-width="360px" width="360px" align="right"> 
 
 ### - 📍 São Paulo - Brasil
